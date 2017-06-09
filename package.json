@@ -11,6 +11,10 @@
     "mo9",
     "sso"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HelloSkull/mo9-sso.git"
+  },
   "author": "CaoZH",
   "license": "ISC",
   "dependencies": {

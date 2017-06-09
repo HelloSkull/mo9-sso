@@ -22,7 +22,6 @@ function mo9SSO(){
                             message:"登录失效，即将跳转到登录页面！"
                         };
                     }
-                    console.log("getTicketPromise data->",data);
                     resolve(data) ;
 
                 }).then(function(error){
