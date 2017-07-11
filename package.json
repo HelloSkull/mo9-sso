@@ -1,6 +1,6 @@
 {
   "name": "mo9-sso",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "a module for  mo9 ticket validate",
   "main": "index.js",
   "scripts": {
